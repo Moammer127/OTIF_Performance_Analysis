@@ -48,6 +48,7 @@ In the initial data cleaning phase, I performed the following tasks:
 ### Data Analysis
 #### Write same DAX functions to calculate KPIs 
 Calculate number of customers:
+
 Number of Customers = DISTINCTCOUNT('F-Orders'[CustomerID])
 
 Calculate number of orders:
